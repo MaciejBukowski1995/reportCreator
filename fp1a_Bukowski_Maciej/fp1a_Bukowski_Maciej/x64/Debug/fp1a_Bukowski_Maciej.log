@@ -1,0 +1,14 @@
+﻿  main.c
+c:\users\user\documents\visual studio 2015\projects\fp1a_bukowski_maciej\fp1a_bukowski_maciej\main.c(62): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\user\documents\visual studio 2015\projects\fp1a_bukowski_maciej\fp1a_bukowski_maciej\main.c(75): warning C4133: 'function': incompatible types - from 'int *' to 'const time_t *const '
+c:\users\user\documents\visual studio 2015\projects\fp1a_bukowski_maciej\fp1a_bukowski_maciej\main.c(89): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\user\documents\visual studio 2015\projects\fp1a_bukowski_maciej\fp1a_bukowski_maciej\main.c(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\user\documents\visual studio 2015\projects\fp1a_bukowski_maciej\fp1a_bukowski_maciej\main.c(50): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\user\documents\visual studio 2015\projects\fp1a_bukowski_maciej\fp1a_bukowski_maciej\main.c(56): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\users\user\documents\visual studio 2015\projects\fp1a_bukowski_maciej\fp1a_bukowski_maciej\main.c(75): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  fp1a_Bukowski_Maciej.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\fp1a_Bukowski_Maciej\x64\Debug\fp1a_Bukowski_Maciej.exe
+  fp1a_Bukowski_Maciej.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\fp1a_Bukowski_Maciej\x64\Debug\fp1a_Bukowski_Maciej.pdb (Full PDB)
